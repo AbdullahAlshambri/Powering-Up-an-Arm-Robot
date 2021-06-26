@@ -3,7 +3,7 @@
 
 ![Arm Robot](https://github.com/AbdullahAlshambri/Powering-Up-an-Arm-Robot-/blob/main/ArmRobot.jpeg?raw=true)
 
-this is a purposed plan to power up an arm robot made by **Smart Methods Est ©**. First a battery will be chosen based on the components ratings and robot's application, then a charging circuit will be provided to charge the battery, finally the battery will be integrated to the robot's electrical circuit.
+This is a purposed plan to power up an arm robot made by **Smart Methods Est ©**. First a battery will be chosen based on the components ratings and robot's application, then a charging circuit will be provided to charge the battery, finally the battery will be integrated to the robot's electrical circuit.
 
 ## This repository includes 
 1- Data sheets of the electrical components of the robot.
