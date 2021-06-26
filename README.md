@@ -58,7 +58,7 @@ Chosen battery is **WP10-12SE** and it is a 12 volts 10 ah battery. Data sheet o
 
 To charge the battery it is possible to build up a charging circuit with LM317H as a regulator with a simple filter, full-wave rectifier, and a transformer. According to the data WP10-12SE can be charged with 14.4-15 v. 
 
-Another option to charge the battery is to acquire a lead acid battery charger that are available commercially. Moreover, many charging circuits are available in the market cheaply, one of which is DD30CRTA. DD30CRTA can be bought for less than 4 dollars along with a 15-28 v adapter, the circuit module incldes protection. A similar option would be using UC3906 by Texas Instrument. 
+Another option to charge the battery is to acquire one of the lead acid battery chargers that are available commercially. Moreover, many charging circuits are available in the market cheaply, one of which is DD30CRTA. DD30CRTA can be bought for less than 4 dollars along with a 15-28 v adapter, the circuit module incldes protection. A similar option would be using UC3906 by Texas Instrument. 
 
 
 
